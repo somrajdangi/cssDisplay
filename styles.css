@@ -1,0 +1,22 @@
+span {
+  background-color: teal;
+}
+h2 {
+  background-color: teal;
+}
+.inlineblock1 {
+  background-color: green;
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+}
+.inlineblock2 {
+  background-color: green;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+}
+h3 {
+  background-color: teal;
+  display: inline-block;
+}
